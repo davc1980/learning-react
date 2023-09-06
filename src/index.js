@@ -14,5 +14,6 @@ root.render(
     <Card name="Peregina Lares" role="Ingeniero Industrial" />
     <Card name="Paulita Valle" role="Estudiante" />
     <Card name="Paulita Valle" role="Estudiante" />
+    <Boton />
   </>
 );
