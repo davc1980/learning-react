@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { Message, Boton, Card, Counter } from "./Components";
+import { Card } from "./Components";
 import "./main.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
